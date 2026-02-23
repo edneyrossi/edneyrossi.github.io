@@ -65,7 +65,7 @@ Qualquer alteração enviada para o repositório é refletida no site após a at
 ---
 
 ## 📂 Estrutura do Repositório (resumida)
-
+'''
 /
 ├── index.html
 ├── css/
@@ -76,7 +76,7 @@ Qualquer alteração enviada para o repositório é refletida no site após a at
 │ ├── img/
 │ └── favicon.ico
 └── README.md
-
+'''
 
 ---
 
