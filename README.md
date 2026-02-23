@@ -91,7 +91,7 @@ Este projeto adota o princípio do **Copyleft**, incentivando o compartilhamento
 
 ## 📬 Contato
 
-- 📧 Email: edneyrossi@gmail.com  
+- 📧 Email: edneyrossi @ gmail.com  
 - 🌐 Portfólio: https://edneyrossi.github.io/
 
 ---
