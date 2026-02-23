@@ -1,5 +1,13 @@
 # Edney Rossi — Portfólio Profissional
 
+⚠️ **Aviso importante**  
+Este repositório é mantido **exclusivamente para fins históricos** e para preservação de versões anteriores do portfólio.
+
+👉 Para projetos atuais, repositórios ativos e versões mais recentes do meu trabalho, acesse meu **GitHub oficial**:  
+**https://github.com/profedney**
+
+---
+
 Este repositório contém o código-fonte do meu **site pessoal e portfólio profissional**, publicado via **GitHub Pages**.
 
 O objetivo do site é apresentar, de forma clara e institucional, minha trajetória acadêmica e profissional, projetos desenvolvidos e áreas de atuação, integrando **educação**, **tecnologia**, **eletrônica aplicada** e **cultura maker**.
