@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+# Edney Rossi — Portfólio Profissional
 
-You can use the [editor on GitHub](https://github.com/edneyrossi/edneyrossi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositório contém o código-fonte do meu **site pessoal e portfólio profissional**, publicado via **GitHub Pages**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O objetivo do site é apresentar, de forma clara e institucional, minha trajetória acadêmica e profissional, projetos desenvolvidos e áreas de atuação, integrando **educação**, **tecnologia**, **eletrônica aplicada** e **cultura maker**.
 
-### Markdown
+🔗 **Acesse o site:**  
+https://edneyrossi.github.io/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## 📌 Sobre o Portfólio
 
-# Header 1
-## Header 2
-### Header 3
+O site foi concebido como uma página estática, com foco em simplicidade, acessibilidade e clareza da informação.  
+Apresenta:
 
-- Bulleted
-- List
+- Linha do tempo profissional e acadêmica;
+- Áreas de atuação (docência, tecnologia, eletrônica e automação);
+- Portfólio de projetos técnicos e educacionais;
+- Links para conteúdos e iniciativas mantidas na internet;
+- Informações de contato.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 🎓 Perfil Profissional
 
-[Link](url) and ![Image](src)
-```
+Sou **Tecnólogo em Informática e Negócios (FATEC)**, com formação técnica em Eletrônica e atuação multidisciplinar nas áreas de:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Docência em ensino técnico e ensino médio;
+- Tecnologia da Informação e Informática Aplicada;
+- Desenvolvimento web e sistemas educacionais;
+- Eletrônica aplicada ao áudio e automação industrial;
+- Cultura maker, projetos DIY e educação tecnológica aberta.
 
-### Jekyll Themes
+Atuei como docente em instituições como **ETEC**, **SENAC**, **Escola Técnica Sequencial** e **escolas públicas da rede estadual de São Paulo**, incluindo experiências em **educação inclusiva (PNE)**.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edneyrossi/edneyrossi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## 🛠️ Tecnologias Utilizadas
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap 5  
+- Font Awesome  
+
+O site é totalmente estático, sem dependência de backend, o que facilita manutenção, versionamento e publicação.
+
+---
+
+## 🚀 Publicação (GitHub Pages)
+
+Este projeto é publicado automaticamente via **GitHub Pages** a partir do branch principal.
+
+Qualquer alteração enviada para o repositório é refletida no site após a atualização do Pages.
+
+---
+
+## 📂 Estrutura do Repositório (resumida)
+
+/
+├── index.html
+├── css/
+│ └── styles.css
+├── js/
+│ └── scripts.js
+├── assets/
+│ ├── img/
+│ └── favicon.ico
+└── README.md
+
+
+---
+
+## ♻️ Licença
+
+Este projeto adota o princípio do **Copyleft**, incentivando o compartilhamento do conhecimento, desde que mantidos os devidos créditos.
+
+🔗 https://www.gnu.org/licenses/copyleft.html
+
+---
+
+## 📬 Contato
+
+- 📧 Email: edneyrossi@gmail.com  
+- 🌐 Portfólio: https://edneyrossi.github.io/
+
+---
+
+**Venha fazer parte desta história.**
